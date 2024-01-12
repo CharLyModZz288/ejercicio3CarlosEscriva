@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47097671702",
+    "project_id": "ejercicio4carlosescriva",
+    "storage_bucket": "ejercicio4carlosescriva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47097671702:android:e5ff7b1e40fbd8d6248537",
+        "android_client_info": {
+          "package_name": "manuel.carrizosa.examenmcb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrmWWiR4ISKQ99ZKKeiWzrMk1EtlBFgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
